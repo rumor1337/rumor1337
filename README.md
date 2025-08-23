@@ -1,5 +1,7 @@
 # rumor1337
 
+![rumor1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumor1337&show_icons=true&theme=responsive)
+
 ### currently learning:
 
 > *JavaScript* <br>
