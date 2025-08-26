@@ -5,6 +5,7 @@
 ### currently learning:
 
 > *JavaScript* <br>
+> *PHP* <br>
 > *C#* <br>
 > *C++* <br>
 > *HTML5/CSS* <br>
