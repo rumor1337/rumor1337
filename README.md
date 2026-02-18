@@ -1,17 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2026 - To: 16 February 2026
+From: 10 February 2026 - To: 17 February 2026
 
-Total Time: 39 mins
+Total Time: 2 hrs 8 mins
 
-TypeScript      13 mins         >>>>>>>>-----------------   33.06 %
-SQL             7 mins          >>>>>--------------------   19.97 %
-JavaScript      7 mins          >>>>---------------------   17.67 %
-PHP             4 mins          >>>----------------------   12.41 %
-Python          3 mins          >>-----------------------   09.27 %
-Apache Config   2 mins          >------------------------   05.30 %
-Other           0 secs          -------------------------   00.48 %
+PHP             1 hr 24 mins          >>>>>>>>>>>>>>>>---------   65.45 %
+TypeScript      13 mins               >>>----------------------   10.30 %
+JavaScript      10 mins               >>-----------------------   07.91 %
+Apache Config   8 mins                >>-----------------------   06.35 %
+SQL             7 mins                >------------------------   05.99 %
+Python          3 mins                >------------------------   02.89 %
+CSS             0 secs                -------------------------   00.39 %
+Other           0 secs                -------------------------   00.15 %
 ```
 
 <!--END_SECTION:waka-->
