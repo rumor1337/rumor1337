@@ -1,7 +1,7 @@
-#### 📡  My [_`hackatime`_](https://waka.hackclub.com) stats from this week
+#### my [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+{{ wakatimeData.Languages | wakatimeCategoryBar 5 }}
 
-Total: {{ wakatimeData.HumanReadableTotal }}
+total: {{ wakatimeData.HumanReadableTotal }}
 ```
