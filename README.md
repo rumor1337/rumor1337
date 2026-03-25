@@ -1,10 +1,8 @@
 #### my [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
-SQL     1h 51m 53s   █████████████░░░░░░░░░░░░  49.49%
-MySQL   1h 4m 31s    ████████░░░░░░░░░░░░░░░░░  28.54%
-PHP     41m 44s      █████░░░░░░░░░░░░░░░░░░░░  18.46%
-CSS     7m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.51%
+MySQL   34m 54s   ███████████████████░░░░░░  72.83%
+SQL     13m 1s    ███████░░░░░░░░░░░░░░░░░░  27.17%
 
-total: 3 hrs 19 mins
+total: 0 hrs 38 mins
 ```
