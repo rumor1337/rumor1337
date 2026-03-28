@@ -1,4 +1,4 @@
-#### my [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
+#### my [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
 MySQL   34m 54s   ███████████████████░░░░░░  72.83%
