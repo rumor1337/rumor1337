@@ -1,8 +1,9 @@
 #### my [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
-MySQL   34m 54s   ███████████████████░░░░░░  72.83%
-SQL     13m 1s    ███████░░░░░░░░░░░░░░░░░░  27.17%
+MySQL    34m 54s   █████████████████░░░░░░░░  66.20%
+SQL      13m 1s    ███████░░░░░░░░░░░░░░░░░░  24.69%
+Python   4m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  9.11%
 
-total: 0 hrs 38 mins
+total: 0 hrs 45 mins
 ```
