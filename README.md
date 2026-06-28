@@ -1,7 +1,8 @@
 #### my [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
+JavaScript   10m 29s   █████████████████████████  96.03%
+HTML         26s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.97%
 
-
-total: 0 hrs 0 mins
+total: 0 hrs 12 mins
 ```
