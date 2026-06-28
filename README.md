@@ -1,9 +1,10 @@
 #### my [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
-JavaScript   10m 29s   █████████████████████░░░░  81.16%
-PHP          2m 0s     ████░░░░░░░░░░░░░░░░░░░░░  15.48%
-HTML         26s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.35%
+PHP          16m 19s   ███████████████░░░░░░░░░░  59.12%
+JavaScript   10m 29s   ██████████░░░░░░░░░░░░░░░  37.98%
+HTML         26s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.57%
+CSS          22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.33%
 
-total: 0 hrs 14 mins
+total: 0 hrs 29 mins
 ```
