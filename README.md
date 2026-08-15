@@ -1,8 +1,8 @@
 #### my [_`hackatime`_](https://waka.hackclub.com) stats from this week
 
 ```text
-Luau      1h 32m 18s   ███████████████████░░░░░░  73.03%
-unknown   34m 5s       ███████░░░░░░░░░░░░░░░░░░  26.97%
+Luau      1h 28m 26s   ██████████████████████░░░  87.96%
+unknown   12m 6s       ████░░░░░░░░░░░░░░░░░░░░░  12.04%
 
-total: 1 hrs 54 mins
+total: 1 hrs 32 mins
 ```
