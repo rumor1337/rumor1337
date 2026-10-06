@@ -1,4 +1,4 @@
-#### my [_`hackatime`_](hackatime.hackclub.com) stats from this week
+#### my [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 
 ```text
 PHP          7h 39m 52s   ██████████░░░░░░░░░░░░░░░  37.75%
