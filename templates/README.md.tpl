@@ -5,3 +5,8 @@
 
 total: {{ wakatimeData.HumanReadableTotal }}
 ```
+#### contacts
+```text
+mail: extend@bladee.tech
+discord: @wwronged
+```
