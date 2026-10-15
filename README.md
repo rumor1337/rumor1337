@@ -1,13 +1,13 @@
 #### my [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 
 ```text
-PHP          6h 12m 11s   ██████████████░░░░░░░░░░░  54.56%
-CSS          3h 17m 7s    ████████░░░░░░░░░░░░░░░░░  28.89%
-Shell        1h 3m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  9.37%
-JavaScript   39m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
-unknown      7m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.05%
+PHP          6h 16m 55s   ██████████████░░░░░░░░░░░  53.30%
+CSS          3h 17m 7s    ███████░░░░░░░░░░░░░░░░░░  27.87%
+Shell        1h 8m 17s    ███░░░░░░░░░░░░░░░░░░░░░░  9.66%
+JavaScript   43m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.12%
+Markdown     9m 54s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.40%
 
-total: 9 hrs 39 mins
+total: 9 hrs 57 mins
 ```
 #### contacts
 ```text
