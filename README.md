@@ -1,13 +1,13 @@
 #### my [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 
 ```text
-Python        5h 44m 50s   ██████████████████░░░░░░░  71.51%
-Markdown      1h 11m 52s   ████░░░░░░░░░░░░░░░░░░░░░  14.90%
-PHP           48m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  10.08%
-Ignore List   9m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.95%
-Text          3m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.65%
+Python        5h 44m 50s   ███████████████████░░░░░░  74.99%
+Markdown      1h 9m 43s    ████░░░░░░░░░░░░░░░░░░░░░  15.16%
+PHP           30m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.60%
+Ignore List   9m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.05%
+Text          3m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.68%
 
-total: 7 hrs 53 mins
+total: 7 hrs 30 mins
 ```
 #### contacts
 ```text
