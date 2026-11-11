@@ -3,7 +3,7 @@
 ```text
 PHP   19m 25s   █████████████████████████  100.00%
 
-total: 0 hrs 21 mins
+total: 0 hrs 19 mins
 ```
 #### contacts
 ```text
