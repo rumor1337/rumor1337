@@ -5,7 +5,7 @@ PHP     53m 8s   █████████████████████
 Shell   2m 18s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.09%
 CSS     50s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
 
-total: 0 hrs 58 mins
+total: 1 hrs 0 mins
 ```
 #### contacts
 ```text
